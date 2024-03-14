@@ -11,3 +11,4 @@ Contenido:
 - churn.csv: Datos de retención de personal (obtenido de kaggle. https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)
 - managers.csv: Obtenido de micourse.ai (https://nbviewer.org/github/Yorko/mlcourse.ai/blob/main/jupyter_english/tutorials/merging_dataframes_tutorial_max_palko.ipynb)
 - revenue.csv: Obtenido de micoruse.ai (https://nbviewer.org/github/Yorko/mlcourse.ai/blob/main/jupyter_english/tutorials/merging_dataframes_tutorial_max_palko.ipynb)
+- netflix.csv: Datos de netflix obtenidos de trends.google.com
