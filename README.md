@@ -8,4 +8,4 @@ Contenido:
 - gas.csv: Extracción de gas en Australia (obtenido de la librería fpp2 de R)
 - calls.csv: Llamadas a un banco (obtenido de la librería fpp2 de R)
 - info_estados.csv: Datos diferentes países (descargado de https://www.kaggle.com/datasets/albertovidalrod/gapminder-dataset)
-
+- churn.csv: Datos de retención de personal (obtenido de kaggle. https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets)
