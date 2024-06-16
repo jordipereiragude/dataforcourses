@@ -14,4 +14,8 @@ Contenido:
 - netflix.csv: Datos de netflix obtenidos de trends.google.com
 - cambridgedata.xlsx https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/cambridgedata.txt
 - northwind.sqlte: Base de datos de ejemplo de sqlite (https://tdmdal.github.io/mma-sql-2023/data/northwind.sqlite3)
+<<<<<<< HEAD
 - gastos.csv: Datos de gastos de un tratamiento médico
+=======
+- student-mat.csv, student-por.csv: Resultados de alumnos (https://archive.ics.uci.edu/dataset/320/student+performance)
+>>>>>>> a3cbecc266303d8e7d961a13e948113329aea78c
