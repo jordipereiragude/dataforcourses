@@ -17,3 +17,4 @@ Contenido:
 - gastos.csv: Datos de gastos de un tratamiento médico
 - student-mat.csv, student-por.csv: Resultados de alumnos (https://archive.ics.uci.edu/dataset/320/student+performance)
 - elec_equip.csv: Datos de ventas de equipo eléctrico (unión europea, libro fpp)
+- oil.csv: Datos de producción de petróleo en Arabia Saudí (libro fpp)
