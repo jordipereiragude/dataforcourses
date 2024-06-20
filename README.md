@@ -16,3 +16,4 @@ Contenido:
 - northwind.sqlte: Base de datos de ejemplo de sqlite (https://tdmdal.github.io/mma-sql-2023/data/northwind.sqlite3)
 - gastos.csv: Datos de gastos de un tratamiento médico
 - student-mat.csv, student-por.csv: Resultados de alumnos (https://archive.ics.uci.edu/dataset/320/student+performance)
+- elec_equip.csv: Datos de ventas de equipo eléctrico (unión europea, libro fpp)
