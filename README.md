@@ -18,3 +18,4 @@ Contenido:
 - student-mat.csv, student-por.csv: Resultados de alumnos (https://archive.ics.uci.edu/dataset/320/student+performance)
 - elec_equip.csv: Datos de ventas de equipo eléctrico (unión europea, libro fpp)
 - oil.csv: Datos de producción de petróleo en Arabia Saudí (libro fpp)
+- uschange.csv: Tasas de cambios de varios indicadores en USA (libro fpp)
