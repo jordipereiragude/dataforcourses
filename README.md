@@ -20,4 +20,4 @@ Contenido:
 - oil.csv: Datos de producción de petróleo en Arabia Saudí (libro fpp)
 - uschange.csv: Tasas de cambios de varios indicadores en USA (libro fpp)
 - FuelConsumption.csv: Datos de consumo de vehículos (https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/FuelConsumptionCo2.csv)
-
+- carshare.csv.zip: Carshare original de https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
