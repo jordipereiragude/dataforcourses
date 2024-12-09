@@ -23,3 +23,4 @@ Contenido:
 - carshare.csv.zip: Carshare original de https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma
 - rehab.csv: Ejemplo ANOVA
 - kidney.csv: Ejemplo ANOVA
+- Default.csv: Regresión logística
