@@ -24,3 +24,4 @@ Contenido:
 - rehab.csv: Ejemplo ANOVA
 - kidney.csv: Ejemplo ANOVA
 - Default.csv: Regresión logística
+- acciones.csv: Valores de acciones para PCA
