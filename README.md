@@ -25,4 +25,4 @@ Contenido:
 - kidney.csv: Ejemplo ANOVA
 - Default.csv: Regresión logística
 - acciones.csv: Valores de acciones para PCA
-- ventasABC.csv: Data para ABC
+- inventory.xlsx: Data para ABC
