@@ -26,3 +26,4 @@ Contenido:
 - Default.csv: Regresión logística
 - acciones.csv: Valores de acciones para PCA
 - inventory.xlsx: Data para ABC
+- visitasAustralia.xlsx: turismo en Australia (de fpp2)
