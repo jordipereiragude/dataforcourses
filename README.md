@@ -29,4 +29,5 @@ Contenido:
 - daily-website-visitors.csv: kaggle (for prophet)
 - inventory.xlsx: Data para ABC
 - visitasAustralia.xlsx: turismo en Australia (de fpp2)
+- dataArima0.xlsx: Ejemplo ARIMA
 - dataArima.xlsx: Ejemplo ARIMA
