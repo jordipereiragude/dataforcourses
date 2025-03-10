@@ -26,3 +26,4 @@ Contenido:
 - Default.csv: Regresión logística
 - acciones.csv: Valores de acciones para PCA
 - ventasABC.csv: Data para ABC
+- daily-website-visitors.csv: kaggle (for prophet)
