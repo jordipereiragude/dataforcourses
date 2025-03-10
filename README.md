@@ -27,3 +27,5 @@ Contenido:
 - acciones.csv: Valores de acciones para PCA
 - ventasABC.csv: Data para ABC
 - daily-website-visitors.csv: kaggle (for prophet)
+- inventory.xlsx: Data para ABC
+- visitasAustralia.xlsx: turismo en Australia (de fpp2)
