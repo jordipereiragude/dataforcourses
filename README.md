@@ -31,3 +31,4 @@ Contenido:
 - visitasAustralia.xlsx: turismo en Australia (de fpp2)
 - dataArima0.xlsx: Ejemplo ARIMA
 - dataArima.xlsx: Ejemplo ARIMA
+- swiss_pop.csv: Ejemplo ARIMA
