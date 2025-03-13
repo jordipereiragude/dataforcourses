@@ -32,3 +32,7 @@ Contenido:
 - dataArima0.xlsx: Ejemplo ARIMA
 - dataArima.xlsx: Ejemplo ARIMA
 - swiss_pop.csv: Ejemplo ARIMA
+- localizacionesPotencialesBurrito.csv: Datos burrito game para problema localización
+- clientesBurrito.csv: Datos burrito game para problema localización
+- demandaCapturadaBurrito.csv: Datos burrito game para problema localización
+- preciosBurrito.csv: Datos burrito game para problema localización
