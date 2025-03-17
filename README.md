@@ -38,3 +38,4 @@ Contenido:
 - preciosBurrito.csv: Datos burrito game para problema localización
 - Crop_Yield_Prediction.csv: kaggle plantación
 - wipro.csv.zip: kaggle wipro (pronóstico de radiación solar)
+- food_wastage_data.csv: Food waste (kaggle)
