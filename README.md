@@ -36,3 +36,4 @@ Contenido:
 - clientesBurrito.csv: Datos burrito game para problema localización
 - demandaCapturadaBurrito.csv: Datos burrito game para problema localización
 - preciosBurrito.csv: Datos burrito game para problema localización
+- Crop_Yield_Prediction.csv: kaggle plantación
