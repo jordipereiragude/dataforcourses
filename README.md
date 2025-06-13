@@ -39,3 +39,7 @@ Contenido:
 - Crop_Yield_Prediction.csv: kaggle plantación
 - wipro.csv.zip: kaggle wipro (pronóstico de radiación solar)
 - food_wastage_data.csv: Food waste (kaggle)
+- Northwind.xlsx: Extract of northwind database
+- Natsal.xlsx: natsal data from The art of statistics
+- ventaCoches.xlsx: Ventas de coches en Europa
+- Encuesta.xlsx: Encuesta Vallformosa
