@@ -1,4 +1,4 @@
-﻿Type of Food,Number of Guests,Event Type,Quantity of Food,Storage Conditions,Purchase History,Seasonality,Preparation Method,Geographical Location,Pricing,Wastage Food Amount
+﻿FoodType,GuestsNb,EventType,FoodQuantity,StorageConditions,PurchaseHistory,Seasonality,PreparationMethod,GeographicalLocation,Pricing,WastageAmount
 Meat,310,Corporate,450,Refrigerated,Regular,All Seasons,Buffet,Urban,Low,25
 Meat,400,Birthday,500,Room Temperature,Regular,Winter,Buffet,Suburban,High,40
 Vegetables,302,Birthday,371,Refrigerated,Regular,Summer,Buffet,Suburban,Low,27
