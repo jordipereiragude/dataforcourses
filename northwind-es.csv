@@ -1,0 +1,831 @@
+Trabajador,Cliente,tipoEnvio,Ciudad,Pais,Valor
+5,VINET,3,Reims,France,11880
+6,TOMSP,1,Münster,Germany,91306.6
+4,HANAR,2,Rio de Janeiro,Brazil,108780
+3,VICTE,1,Lyon,France,27502.8
+4,SUPRD,2,Charleroi,Belgium,391650
+3,HANAR,2,Rio de Janeiro,Brazil,147369.6
+5,CHOPS,2,Bern,Switzerland,35636.4
+9,RICSU,3,Genève,Switzerland,273955
+3,WELLI,2,Resende,Brazil,13980.6
+4,HILAA,3,San Cristóbal,Venezuela,51515.4
+1,ERNSH,1,Graz,Austria,244250.6
+4,CENTC,3,México D.F.,Mexico,1108.8
+4,OTTIK,1,Köln,Germany,178112.4
+4,QUEDE,2,Rio de Janeiro,Brazil,17920
+8,RATTC,3,Albuquerque,USA,18119.2
+9,ERNSH,3,Graz,Austria,707500
+6,FOLKO,3,Bräcke,Sweden,43470
+2,BLONP,1,Strasbourg,France,58800
+3,WARTH,3,Oulu,Finland,4377.6
+4,FRANK,1,München,Germany,544185
+8,GROSR,3,Caracas,Venezuela,15416.8
+5,WHITC,1,Seattle,USA,54080
+1,WARTH,1,Oulu,Finland,75680
+6,SPLIR,2,Lander,USA,1152
+6,RATTC,2,Albuquerque,USA,101920
+3,QUICK,3,Cunewalde,Germany,325644.8
+6,VINET,1,Reims,France,14542.2
+1,MAGAA,1,Bergamo,Italy,5529.6
+8,TORTU,3,México D.F.,Mexico,10500
+2,MORGK,3,Leipzig,Germany,38425.6
+8,BERGS,2,Luleå,Sweden,95283.2
+8,LEHMS,2,Frankfurt a.M.,Germany,7020
+2,BERGS,1,Luleå,Sweden,38018.4
+4,ROMEY,1,Madrid,Spain,951.5
+4,ROMEY,1,Madrid,Spain,1243.2
+3,LILAS,3,Barquisimeto,Venezuela,107524.8
+4,LEHMS,1,Frankfurt a.M.,Germany,88572
+1,QUICK,2,Cunewalde,Germany,263683.2
+8,QUICK,3,Cunewalde,Germany,422240
+8,RICAR,3,Rio de Janeiro,Brazil,69300
+4,REGGC,1,Reggio Emilia,Italy,1157
+7,BSBEV,3,London,UK,18696.6
+8,COMMI,1,Sao Paulo,Brazil,130140
+6,QUEDE,2,Rio de Janeiro,Brazil,25428.8
+1,TRADH,2,Sao Paulo,Brazil,25920
+1,TORTU,3,México D.F.,Mexico,28007.1
+4,RATTC,2,Albuquerque,USA,141570
+2,VINET,2,Reims,France,486.4
+6,LILAS,1,Barquisimeto,Venezuela,59884.2
+5,BLONP,2,Strasbourg,France,113600
+6,HUNGO,2,Cork,Ireland,390875
+4,RICAR,2,Rio de Janeiro,Brazil,12232.5
+2,MAGAA,2,Bergamo,Italy,30400
+8,WANDK,2,Stuttgart,Germany,22650
+4,SUPRD,2,Charleroi,Belgium,216704
+7,GODOS,2,Sevilla,Spain,105570
+1,TORTU,2,México D.F.,Mexico,40084.8
+8,OLDWO,3,Anchorage,USA,332560
+1,ROMEY,3,Madrid,Spain,12462.5
+2,LONEP,2,Portland,USA,5512
+7,ANATR,3,México D.F.,Mexico,532.8
+3,HUNGO,1,Cork,Ireland,132150
+8,THEBI,2,Portland,USA,5040
+1,DUMON,3,Nantes,France,3494.4
+2,WANDK,2,Stuttgart,Germany,93658.4
+2,QUICK,2,Cunewalde,Germany,2188.8
+1,RATTC,2,Albuquerque,USA,221065
+4,ISLAT,2,Cowes,UK,22739.2
+1,RATTC,3,Albuquerque,USA,226800
+6,LONEP,1,Portland,USA,5760
+8,ISLAT,2,Cowes,UK,6250.4
+7,TORTU,3,México D.F.,Mexico,61942.4
+5,WARTH,3,Oulu,Finland,15480
+3,ISLAT,2,Cowes,UK,1440
+7,PERIC,3,México D.F.,Mexico,2240
+4,KOENE,1,Brandenburg,Germany,2137.2
+9,SAVEA,1,Boise,USA,1483571.9
+1,KOENE,3,Brandenburg,Germany,106287
+4,BOLID,2,Madrid,Spain,88380
+2,FOLKO,1,Bräcke,Sweden,316750
+4,FURIB,3,Lisboa,Portugal,68912
+4,SPLIR,2,Lander,USA,240970
+3,LILAS,1,Barquisimeto,Venezuela,145500
+9,BONAP,1,Marseille,France,1327.5
+3,MEREP,2,Montréal,Canada,147417.6
+5,WARTH,3,Oulu,Finland,57240
+8,VICTE,2,Lyon,France,2606.4
+7,HUNGO,2,Cork,Ireland,218887.2
+7,PRINI,2,Lisboa,Portugal,5702.4
+4,FRANK,3,München,Germany,337979
+4,OLDWO,3,Anchorage,USA,32707.5
+2,MEREP,2,Montréal,Canada,374025.6
+1,BONAP,3,Marseille,France,184636.8
+7,SIMOB,3,Kobenhavn,Denmark,7004
+4,FRANK,2,München,Germany,368128
+4,LEHMS,1,Frankfurt a.M.,Germany,109434
+4,WHITC,2,Seattle,USA,299880
+2,QUICK,2,Cunewalde,Germany,465043.2
+3,RATTC,3,Albuquerque,USA,96947.2
+4,FAMIA,3,Sao Paulo,Brazil,64960
+4,WANDK,2,Stuttgart,Germany,15840
+7,SPLIR,1,Lander,USA,3398.4
+6,LAMAI,2,Toulouse,France,23542.2
+1,ERNSH,1,Graz,Austria,681312
+3,FURIB,3,Lisboa,Portugal,4620
+7,PICCO,3,Salzburg,Austria,665979.2
+8,PERIC,3,México D.F.,Mexico,9100.8
+6,AROUT,1,Colchester,UK,24000
+6,WANDK,2,Stuttgart,Germany,68596.8
+1,LILAS,3,Barquisimeto,Venezuela,73440
+5,LAMAI,1,Toulouse,France,18080
+5,SEVES,3,London,UK,752806.4
+4,BLONP,3,Strasbourg,France,1019847.6
+1,QUICK,2,Cunewalde,Germany,247822.4
+3,BONAP,1,Marseille,France,145662.4
+4,DRACD,3,Aachen,Germany,19676.8
+1,EASTC,1,London,UK,33250
+3,ANTON,2,México D.F.,Mexico,9676.8
+8,GALED,2,Barcelona,Spain,1360
+7,VAFFE,3,Århus,Denmark,63399.2
+2,ERNSH,2,Graz,Austria,143067.6
+8,SPLIR,2,Lander,USA,96033.6
+6,CHOPS,2,Bern,Switzerland,76310
+1,LAMAI,1,Toulouse,France,547.2
+5,QUEEN,2,Sao Paulo,Brazil,2014116.8
+4,HUNGO,3,Cork,Ireland,222040
+1,WOLZA,3,Warszawa,Poland,20655
+3,HUNGC,2,Elgin,USA,8450
+1,MEREP,2,Montréal,Canada,17640
+1,SEVES,3,London,UK,40640
+5,FOLKO,3,Bräcke,Sweden,619.2
+2,QUEDE,1,Rio de Janeiro,Brazil,42204.8
+8,HUNGO,3,Cork,Ireland,105065.2
+3,LILAS,3,Barquisimeto,Venezuela,1568
+4,ERNSH,1,Graz,Austria,478500
+8,AROUT,3,Colchester,UK,49445
+3,BERGS,3,Luleå,Sweden,95563.2
+1,SPLIR,2,Lander,USA,32832
+9,FAMIA,3,Sao Paulo,Brazil,4150
+1,SANTG,2,Stavern,Norway,50803.2
+2,SEVES,1,London,UK,95550
+4,BOTTM,2,Tsawassen,Canada,148456.8
+6,ERNSH,1,Graz,Austria,384508.8
+3,DRACD,3,Aachen,Germany,1555.2
+2,PICCO,3,Salzburg,Austria,72000
+1,SAVEA,3,Boise,USA,581257.6
+1,HUNGC,3,Elgin,USA,8840
+6,HILAA,1,San Cristóbal,Venezuela,247319.2
+1,FRANK,3,München,Germany,230359.8
+5,PRINI,1,Lisboa,Portugal,23609.6
+2,SAVEA,3,Boise,USA,410400
+8,VAFFE,3,Århus,Denmark,245418.4
+1,EASTC,3,London,UK,263418
+1,RATTC,1,Albuquerque,USA,649924.8
+8,ERNSH,2,Graz,Austria,339187.5
+4,ERNSH,3,Graz,Austria,91536.9
+2,MAGAA,1,Bergamo,Italy,167500
+1,LINOD,1,I. de Margarita,Venezuela,20000
+7,QUEEN,1,Sao Paulo,Brazil,179619.8
+2,OTTIK,2,Köln,Germany,71640
+8,FOLIG,1,Lille,France,82742.4
+3,OCEAN,1,Buenos Aires,Argentina,7660.8
+3,BOTTM,3,Tsawassen,Canada,52130
+9,BOTTM,3,Tsawassen,Canada,89429
+8,WARTH,2,Oulu,Finland,7440
+3,LAMAI,2,Toulouse,France,165609.6
+2,FAMIA,3,Sao Paulo,Brazil,15735.2
+3,HUNGC,1,Elgin,USA,2252.8
+8,WARTH,3,Oulu,Finland,36000
+4,SIMOB,3,Kobenhavn,Denmark,1387833.6
+4,QUICK,1,Cunewalde,Germany,264960.8
+4,RICSU,2,Genève,Switzerland,176640
+3,WELLI,1,Resende,Brazil,94880
+8,QUEDE,1,Rio de Janeiro,Brazil,75118.8
+2,FRANS,1,Torino,Italy,99.6
+6,GOURL,3,Campinas,Brazil,34680
+7,MEREP,2,Montréal,Canada,1597554.8
+6,LAMAI,2,Toulouse,France,14400
+4,GALED,1,Barcelona,Spain,4058.4
+4,PICCO,2,Salzburg,Austria,22785
+7,REGGC,1,Reggio Emilia,Italy,3840
+3,HUNGO,2,Cork,Ireland,131137.5
+4,ERNSH,1,Graz,Austria,1130220
+4,BOTTM,2,Tsawassen,Canada,327990
+3,SPLIR,2,Lander,USA,24250
+3,PRINI,3,Lisboa,Portugal,23833.6
+3,FOLKO,2,Bräcke,Sweden,8640
+8,CONSH,2,London,UK,20211.2
+3,BLONP,2,Strasbourg,France,218869.2
+8,WARTH,1,Oulu,Finland,5895
+3,TOMSP,2,Münster,Germany,28375
+6,MEREP,3,Montréal,Canada,72226
+4,SAVEA,2,Boise,USA,1204964.8
+3,OLDWO,2,Anchorage,USA,87750
+3,ERNSH,2,Graz,Austria,304640
+8,REGGC,1,Reggio Emilia,Italy,9676.8
+3,BERGS,3,Luleå,Sweden,64997.1
+3,BERGS,1,Luleå,Sweden,3672.9
+6,TOMSP,1,Münster,Germany,13680
+4,RICAR,2,Rio de Janeiro,Brazil,70408.8
+4,RANCH,2,Buenos Aires,Argentina,11528.4
+3,BLONP,2,Strasbourg,France,126835.8
+8,VICTE,2,Lyon,France,13816.4
+4,QUICK,3,Cunewalde,Germany,1018021.2
+8,SAVEA,1,Boise,USA,241040
+1,AROUT,2,Colchester,UK,18120
+4,LAMAI,3,Toulouse,France,20700
+8,WARTH,2,Oulu,Finland,335500
+8,KOENE,2,Brandenburg,Germany,40016
+2,KOENE,1,Brandenburg,Germany,57024
+7,SUPRD,3,Charleroi,Belgium,564195
+4,VICTE,2,Lyon,France,128288
+8,FOLKO,1,Bräcke,Sweden,5870
+1,LILAS,3,Barquisimeto,Venezuela,262604.8
+2,CONSH,1,London,UK,3432
+5,SUPRD,3,Charleroi,Belgium,50644.3
+4,FURIB,2,Lisboa,Portugal,127512
+1,VAFFE,3,Århus,Denmark,320842
+4,COMMI,1,Sao Paulo,Brazil,3240
+8,MAGAA,2,Bergamo,Italy,9408
+3,KOENE,3,Brandenburg,Germany,16504.8
+1,WHITC,1,Seattle,USA,86663.5
+4,BONAP,2,Marseille,France,96502.4
+2,BSBEV,3,London,UK,66400
+8,SEVES,1,London,UK,103017.6
+1,ISLAT,3,Cowes,UK,5529.6
+5,PERIC,2,México D.F.,Mexico,76195.1
+9,SUPRD,1,Charleroi,Belgium,242599.6
+8,HILAA,3,San Cristóbal,Venezuela,2553.6
+5,PRINI,2,Lisboa,Portugal,37632
+2,VICTE,3,Lyon,France,9920
+3,RATTC,3,Albuquerque,USA,1553348.8
+6,FOLIG,2,Lille,France,31752
+8,RICAR,2,Rio de Janeiro,Brazil,94208
+1,LAZYK,3,Walla Walla,USA,1470
+7,WHITC,2,Seattle,USA,45760
+3,BSBEV,3,London,UK,10427.4
+4,LINOD,2,I. de Margarita,Venezuela,228800
+1,HILAA,2,San Cristóbal,Venezuela,58512
+2,QUEEN,2,Sao Paulo,Brazil,54580.9
+8,FRANK,2,München,Germany,78000
+6,PICCO,2,Salzburg,Austria,16572.6
+7,HILAA,2,San Cristóbal,Venezuela,398563.2
+8,FURIB,3,Lisboa,Portugal,6716.6
+3,BOTTM,1,Tsawassen,Canada,71680
+4,LAMAI,3,Toulouse,France,23660
+4,COMMI,2,Sao Paulo,Brazil,27360
+3,LAUGB,3,Vancouver,Canada,9730
+7,TRADH,2,Sao Paulo,Brazil,4000
+7,LEHMS,1,Frankfurt a.M.,Germany,88358.4
+8,HILAA,2,San Cristóbal,Venezuela,28175
+4,LILAS,2,Barquisimeto,Venezuela,63540
+6,LAMAI,1,Toulouse,France,11016
+9,BLAUS,3,Mannheim,Germany,2980
+2,PERIC,1,México D.F.,Mexico,46529.1
+6,HUNGO,2,Cork,Ireland,184365
+4,WHITC,3,Seattle,USA,81921.5
+3,MEREP,3,Montréal,Canada,443.7
+9,KOENE,2,Brandenburg,Germany,14784
+7,ANTON,1,México D.F.,Mexico,26437.5
+1,OTTIK,2,Köln,Germany,4800
+4,BLAUS,1,Mannheim,Germany,410.4
+6,SAVEA,3,Boise,USA,340951.68
+4,BONAP,3,Marseille,France,330000
+7,FAMIA,2,Sao Paulo,Brazil,22866
+7,WANDK,1,Stuttgart,Germany,254887.5
+3,ERNSH,2,Graz,Austria,2009263.85
+2,QUICK,1,Cunewalde,Germany,3028311
+2,HUNGO,3,Cork,Ireland,326812.5
+3,NORTS,3,London,UK,5632
+4,TORTU,2,México D.F.,Mexico,120351.45
+6,CHOPS,3,Bern,Switzerland,155496
+7,SANTG,1,Stavern,Norway,2600
+8,CACTU,2,Buenos Aires,Argentina,4284.5
+4,LEHMS,1,Frankfurt a.M.,Germany,289700.2
+7,SEVES,2,London,UK,173817.6
+1,BERGS,2,Luleå,Sweden,277760.55
+1,BONAP,2,Marseille,France,38070
+4,WARTH,2,Oulu,Finland,64512
+7,QUICK,1,Cunewalde,Germany,133600
+6,GREAL,2,Eugene,USA,7924
+5,MAISD,2,Bruxelles,Belgium,41624
+3,PICCO,2,Salzburg,Austria,564300
+7,OCEAN,1,Buenos Aires,Argentina,220
+7,EASTC,3,London,UK,31057.65
+8,FOLKO,1,Bräcke,Sweden,224929.6
+8,LEHMS,2,Frankfurt a.M.,Germany,15522
+4,ANTON,1,México D.F.,Mexico,172520
+3,LEHMS,2,Frankfurt a.M.,Germany,208500
+1,RICSU,1,Genève,Switzerland,156846.8
+9,BSBEV,3,London,UK,1118.4
+6,BSBEV,3,London,UK,15642
+3,QUICK,3,Cunewalde,Germany,1681630.5
+2,HANAR,1,Rio de Janeiro,Brazil,181675.2
+1,KOENE,3,Brandenburg,Germany,19258.2
+8,LILAS,2,Barquisimeto,Venezuela,177000
+4,LONEP,1,Portland,USA,5840.8
+8,LAZYK,2,Walla Walla,USA,2100
+1,VICTE,3,Lyon,France,224960
+3,SEVES,2,London,UK,160272
+3,TOMSP,2,Münster,Germany,6602.4
+5,QUICK,1,Cunewalde,Germany,848844.5
+7,GODOS,3,Sevilla,Spain,25466
+4,FURIB,3,Lisboa,Portugal,183600
+2,HILAA,1,San Cristóbal,Venezuela,42264
+2,WARTH,2,Oulu,Finland,137620.7
+4,OTTIK,3,Köln,Germany,145560
+6,SAVEA,3,Boise,USA,526311.5
+2,SIMOB,1,Kobenhavn,Denmark,20044.8
+9,LEHMS,2,Frankfurt a.M.,Germany,57625
+1,AROUT,2,Colchester,UK,205718.4
+6,BLONP,1,Strasbourg,France,16434
+8,FRANK,1,München,Germany,44005.5
+2,FOLKO,2,Bräcke,Sweden,170670
+1,REGGC,1,Reggio Emilia,Italy,16290
+2,RICAR,2,Rio de Janeiro,Brazil,91675
+4,RATTC,3,Albuquerque,USA,61053
+8,MEREP,2,Montréal,Canada,30573
+9,BLONP,1,Strasbourg,France,128520
+1,HUNGO,1,Cork,Ireland,320227
+3,GALED,3,Barcelona,Spain,775
+5,RATTC,1,Albuquerque,USA,63537.5
+3,MEREP,3,Montréal,Canada,194625
+8,ERNSH,3,Graz,Austria,25262.25
+3,BERGS,2,Luleå,Sweden,136211.55
+7,ANTON,3,México D.F.,Mexico,172806
+4,TRAIH,2,Kirkland,USA,24457.6
+5,MORGK,1,Leipzig,Germany,124549.2
+3,TORTU,3,México D.F.,Mexico,42760.95
+9,TRAIH,2,Kirkland,USA,27312
+4,BSBEV,3,London,UK,12402
+1,LETSS,2,San Francisco,USA,9850.25
+4,OTTIK,3,Köln,Germany,57623.4
+3,FAMIA,1,Sao Paulo,Brazil,19375
+3,BLAUS,2,Mannheim,Germany,5940
+2,WARTH,2,Oulu,Finland,106211.6
+4,BLONP,1,Strasbourg,France,31250
+7,WELLI,1,Resende,Brazil,2137.5
+9,REGGC,1,Reggio Emilia,Italy,112
+1,QUEDE,1,Rio de Janeiro,Brazil,37139.48
+2,QUICK,3,Cunewalde,Germany,546000
+8,GREAL,2,Eugene,USA,288
+4,MEREP,3,Montréal,Canada,91200
+1,VAFFE,1,Århus,Denmark,60125
+3,LEHMS,1,Frankfurt a.M.,Germany,16309.5
+7,LEHMS,2,Frankfurt a.M.,Germany,112185
+3,OLDWO,2,Anchorage,USA,30537
+2,ERNSH,1,Graz,Austria,1354500
+8,WHITC,1,Seattle,USA,87089.9
+7,PICCO,3,Salzburg,Austria,53606.7
+1,RATTC,3,Albuquerque,USA,140921.5
+6,BSBEV,3,London,UK,4930
+4,HUNGC,1,Elgin,USA,16313.2
+7,HILAA,1,San Cristóbal,Venezuela,217075
+8,VAFFE,2,Århus,Denmark,325
+8,SAVEA,2,Boise,USA,110084
+1,FURIB,1,Lisboa,Portugal,4104
+1,MEREP,2,Montréal,Canada,584010
+4,TRADH,3,Sao Paulo,Brazil,70650
+5,SAVEA,1,Boise,USA,1379260.2
+4,TOMSP,2,Münster,Germany,29792
+7,DUMON,2,Nantes,France,8056
+8,LAMAI,1,Toulouse,France,8379
+6,WOLZA,2,Warszawa,Poland,25048
+1,SAVEA,2,Boise,USA,1676625
+4,HILAA,2,San Cristóbal,Venezuela,17184
+8,BLAUS,3,Mannheim,Germany,12528
+2,WILMK,3,Helsinki,Finland,600
+1,GREAL,2,Eugene,USA,296888
+4,GREAL,2,Eugene,USA,49500
+1,MEREP,1,Montréal,Canada,283237.5
+3,MEREP,3,Montréal,Canada,103320
+2,LAUGB,3,Vancouver,Canada,575
+4,ISLAT,2,Cowes,UK,37925
+4,RICAR,3,Rio de Janeiro,Brazil,22990
+8,FRANK,2,München,Germany,134396.5
+4,THECR,2,Butte,USA,36224.24
+3,ANATR,1,México D.F.,Mexico,8635.5
+1,BERGS,2,Luleå,Sweden,78187.2
+8,SAVEA,3,Boise,USA,63225
+4,BLONP,3,Strasbourg,France,11250
+4,GODOS,3,Sevilla,Spain,80476.45
+1,KOENE,2,Brandenburg,Germany,43146
+8,LAMAI,1,Toulouse,France,496
+8,WANDK,1,Stuttgart,Germany,31000
+7,ERNSH,3,Graz,Austria,1063220.2
+4,FOLIG,3,Lille,France,508521
+8,MAGAA,3,Bergamo,Italy,89716.25
+4,WARTH,1,Oulu,Finland,19514.5
+6,QUEEN,1,Sao Paulo,Brazil,275143.75
+3,LINOD,1,I. de Margarita,Venezuela,274725.05
+7,SANTG,3,Stavern,Norway,4000
+4,WANDK,1,Stuttgart,Germany,33075
+4,HILAA,2,San Cristóbal,Venezuela,225940
+7,SIMOB,3,Kobenhavn,Denmark,43500
+6,ALFKI,1,Berlin,Germany,41268
+3,WELLI,2,Resende,Brazil,63990
+4,HANAR,1,Rio de Janeiro,Brazil,53725
+9,HUNGO,3,Cork,Ireland,188944
+4,QUEDE,2,Rio de Janeiro,Brazil,31800
+5,RICAR,2,Rio de Janeiro,Brazil,11475
+5,MAISD,3,Bruxelles,Belgium,50190
+5,FAMIA,3,Sao Paulo,Brazil,154717
+8,WANDK,2,Stuttgart,Germany,16972.8
+4,GOURL,2,Campinas,Brazil,7299.16
+1,FRANK,1,München,Germany,60175
+5,BERGS,1,Luleå,Sweden,25410.6
+1,REGGC,2,Reggio Emilia,Italy,3860
+6,GREAL,1,Eugene,USA,24839.95
+2,SAVEA,2,Boise,USA,891806.4
+4,QUICK,1,Cunewalde,Germany,1190340
+7,QUEEN,2,Sao Paulo,Brazil,108494.4
+8,HUNGC,1,Elgin,USA,35721
+7,HUNGO,3,Cork,Ireland,36569
+3,LONEP,2,Portland,USA,1250
+2,BONAP,2,Marseille,France,162560
+1,FURIB,3,Lisboa,Portugal,77303.25
+1,LONEP,2,Portland,USA,40145
+7,RICSU,2,Genève,Switzerland,214679.24
+7,ERNSH,1,Graz,Austria,113339
+1,WANDK,2,Stuttgart,Germany,18758.25
+2,SIMOB,1,Kobenhavn,Denmark,17100
+4,FRANK,1,München,Germany,441936
+1,FRANR,1,Nantes,France,29443.2
+9,BERGS,2,Luleå,Sweden,113683.5
+2,WILMK,1,Helsinki,Finland,6185.25
+4,ISLAT,2,Cowes,UK,225
+5,FRANK,2,München,Germany,99610
+2,TORTU,2,México D.F.,Mexico,16045.5
+1,ANTON,3,México D.F.,Mexico,36362.2
+7,SAVEA,3,Boise,USA,1471820
+8,BLONP,3,Strasbourg,France,7920
+1,OLDWO,1,Anchorage,USA,185075
+3,GREAL,3,Eugene,USA,92890
+3,ANTON,2,México D.F.,Mexico,24032
+2,DUMON,1,Nantes,France,567
+3,OTTIK,1,Köln,Germany,159120
+4,GOURL,2,Campinas,Brazil,31242.9
+2,PICCO,1,Salzburg,Austria,73730.25
+9,HUNGO,2,Cork,Ireland,409325.4
+4,VAFFE,2,Århus,Denmark,321080
+1,BERGS,2,Luleå,Sweden,22050
+1,HANAR,1,Rio de Janeiro,Brazil,57500
+2,QUICK,2,Cunewalde,Germany,1849993.6
+4,ALFKI,2,Berlin,Germany,17560
+3,WHITC,3,Seattle,USA,259074
+8,QUICK,3,Cunewalde,Germany,796125
+7,WILMK,1,Helsinki,Finland,21828
+8,WHITC,3,Seattle,USA,37848
+3,LINOD,1,I. de Margarita,Venezuela,81616.4
+4,ERNSH,1,Graz,Austria,388878.84
+3,MORGK,3,Leipzig,Germany,1368
+3,SAVEA,1,Boise,USA,239616
+6,HUNGO,3,Cork,Ireland,326890
+4,ALFKI,1,Berlin,Germany,6930
+6,FOLKO,2,Bräcke,Sweden,190875
+6,QUEEN,1,Sao Paulo,Brazil,38707.5
+9,HILAA,2,San Cristóbal,Venezuela,9072
+8,OLDWO,3,Anchorage,USA,98436
+4,AROUT,3,Colchester,UK,151656
+6,THEBI,2,Portland,USA,1623.6
+1,GOURL,3,Campinas,Brazil,267072
+1,FRANS,1,Torino,Italy,935
+5,SAVEA,2,Boise,USA,774595.8
+3,HUNGO,1,Cork,Ireland,40867.2
+1,SAVEA,1,Boise,USA,514677.8
+5,SAVEA,3,Boise,USA,402917
+3,BONAP,1,Marseille,France,66096
+4,RANCH,2,Buenos Aires,Argentina,15532
+1,FRANK,2,München,Germany,95886
+1,KOENE,3,Brandenburg,Germany,401708
+8,LETSS,2,San Francisco,USA,61911.85
+8,QUEDE,2,Rio de Janeiro,Brazil,15950
+5,QUICK,3,Cunewalde,Germany,48625
+8,SAVEA,1,Boise,USA,219800
+3,WHITC,1,Seattle,USA,7026.75
+8,MEREP,2,Montréal,Canada,13408.5
+4,FAMIA,3,Sao Paulo,Brazil,6331.6
+4,EASTC,1,London,UK,19650
+2,REGGC,1,Reggio Emilia,Italy,68400
+4,QUEEN,2,Sao Paulo,Brazil,62244
+8,LINOD,3,I. de Margarita,Venezuela,222000
+5,BONAP,1,Marseille,France,14273
+7,CHOPS,1,Bern,Switzerland,139300
+3,BONAP,1,Marseille,France,7200
+1,BERGS,3,Luleå,Sweden,88999
+2,GOURL,3,Campinas,Brazil,97392.75
+6,LETSS,2,San Francisco,USA,13112
+9,HUNGO,2,Cork,Ireland,59820
+2,VINET,2,Reims,France,2236.8
+2,SPECD,1,Paris,France,157.05
+3,VINET,3,Reims,France,5760
+4,WHITC,2,Seattle,USA,166380
+4,AROUT,3,Colchester,UK,4275
+3,BOTTM,3,Tsawassen,Canada,327390
+1,AROUT,2,Colchester,UK,9408
+6,VAFFE,1,Århus,Denmark,46000
+9,QUICK,1,Cunewalde,Germany,416741.6
+1,CHOPS,3,Bern,Switzerland,191871.1
+6,PICCO,1,Salzburg,Austria,156853.7
+3,SAVEA,1,Boise,USA,245952
+4,ISLAT,2,Cowes,UK,33480
+9,WARTH,1,Oulu,Finland,130987.5
+3,RICSU,3,Genève,Switzerland,131012.42
+2,NORTS,3,London,UK,2772
+3,FRANS,1,Torino,Italy,792
+6,MAGAA,3,Bergamo,Italy,165.6
+4,BONAP,2,Marseille,France,257202
+8,SPLIR,2,Lander,USA,166662.5
+6,SAVEA,1,Boise,USA,280462
+3,RICSU,3,Genève,Switzerland,197352
+3,ANATR,3,México D.F.,Mexico,3200
+4,MAISD,1,Bruxelles,Belgium,270928
+5,RATTC,2,Albuquerque,USA,33363.5
+3,FOLKO,1,Bräcke,Sweden,581158
+3,FOLIG,3,Lille,France,40656
+6,ERNSH,3,Graz,Austria,381000
+3,QUICK,3,Cunewalde,Germany,134720
+4,OTTIK,1,Köln,Germany,265650
+4,SUPRD,3,Charleroi,Belgium,56
+3,AROUT,2,Colchester,UK,119637
+3,VAFFE,1,Århus,Denmark,136320
+8,HANAR,3,Rio de Janeiro,Brazil,4725
+9,ERNSH,2,Graz,Austria,5504
+3,LEHMS,2,Frankfurt a.M.,Germany,154938.46
+1,ERNSH,3,Graz,Austria,243787.5
+4,FOLKO,1,Bräcke,Sweden,45500
+7,THECR,1,Butte,USA,2052
+1,ERNSH,3,Graz,Austria,1222287.5
+7,GOURL,2,Campinas,Brazil,5600
+3,BERGS,1,Luleå,Sweden,965
+3,MORGK,2,Leipzig,Germany,53400
+2,LILAS,1,Barquisimeto,Venezuela,36000
+2,WARTH,3,Oulu,Finland,65676.3
+9,CACTU,3,Buenos Aires,Argentina,12.5
+4,HANAR,2,Rio de Janeiro,Brazil,21637.5
+4,MAGAA,3,Bergamo,Italy,102300
+1,GROSR,3,Caracas,Venezuela,7750
+8,QUEEN,1,Sao Paulo,Brazil,166504.95
+2,LAMAI,1,Toulouse,France,96628
+1,QUICK,2,Cunewalde,Germany,69300
+1,FOLIG,2,Lille,France,342891
+6,GOURL,1,Campinas,Brazil,19550
+6,FRANK,2,München,Germany,65486.04
+1,WOLZA,3,Warszawa,Poland,11195.8
+3,AROUT,3,Colchester,UK,4204.2
+6,QUEDE,1,Rio de Janeiro,Brazil,8262.45
+8,ERNSH,2,Graz,Austria,249925
+3,HILAA,1,San Cristóbal,Venezuela,259027.2
+7,DRACD,2,Aachen,Germany,8400
+2,ISLAT,1,Cowes,UK,5359.2
+9,KOENE,3,Brandenburg,Germany,103025
+1,SEVES,3,London,UK,109354.05
+4,BOLID,2,Madrid,Spain,242148
+4,SIMOB,2,Kobenhavn,Denmark,470850
+4,WELLI,1,Resende,Brazil,67813.2
+6,SEVES,2,London,UK,146585.6
+2,THEBI,3,Portland,USA,55500
+3,VICTE,2,Lyon,France,21167.7
+4,FRANS,1,Torino,Italy,18.4
+2,OLDWO,3,Anchorage,USA,116200
+7,WELLI,1,Resende,Brazil,2800
+2,LAUGB,3,Vancouver,Canada,3179
+8,LINOD,1,I. de Margarita,Venezuela,53676
+5,REGGC,1,Reggio Emilia,Italy,140752
+1,RICAR,1,Rio de Janeiro,Brazil,30456
+3,VICTE,3,Lyon,France,161460
+2,SAVEA,3,Boise,USA,640
+4,GREAL,2,Eugene,USA,444550
+3,KOENE,2,Brandenburg,Germany,1781058.5
+7,MAGAA,3,Bergamo,Italy,33320
+2,CACTU,3,Buenos Aires,Argentina,12879
+3,RATTC,2,Albuquerque,USA,34200
+1,SPLIR,1,Lander,USA,17628
+6,TRAIH,3,Kirkland,USA,2141.1
+5,LILAS,2,Barquisimeto,Venezuela,279675
+8,FOLKO,1,Bräcke,Sweden,5266.8
+1,DRACD,1,Aachen,Germany,32984.32
+6,BLONP,1,Strasbourg,France,36500
+1,BONAP,2,Marseille,France,30348
+9,RANCH,1,Buenos Aires,Argentina,6524
+9,ISLAT,1,Cowes,UK,107604
+4,TRADH,2,Sao Paulo,Brazil,173712
+3,SANTG,2,Stavern,Norway,72478.8
+2,LAMAI,2,Toulouse,France,18206.4
+6,OTTIK,2,Köln,Germany,38292.6
+1,TRADH,3,Sao Paulo,Brazil,42227.36
+1,ALFKI,3,Berlin,Germany,14467
+7,ERNSH,1,Graz,Austria,809346
+9,BERGS,3,Luleå,Sweden,115368
+3,LINOD,3,I. de Margarita,Venezuela,204175.5
+3,TRADH,3,Sao Paulo,Brazil,41377.5
+4,LINOD,2,I. de Margarita,Venezuela,4224
+5,SUPRD,2,Charleroi,Belgium,508491
+1,TORTU,3,México D.F.,Mexico,50700
+4,VICTE,2,Lyon,France,848
+8,PICCO,2,Salzburg,Austria,25725
+8,QUICK,1,Cunewalde,Germany,994455
+2,SUPRD,3,Charleroi,Belgium,78952
+4,SAVEA,3,Boise,USA,1775491.2
+7,CONSH,2,London,UK,30739.5
+9,KOENE,2,Brandenburg,Germany,70493.38
+1,VICTE,1,Lyon,France,39960
+5,RICAR,1,Rio de Janeiro,Brazil,183580
+8,RATTC,1,Albuquerque,USA,211864
+9,BLAUS,2,Mannheim,Germany,6250
+3,ERNSH,2,Graz,Austria,575850
+3,OLDWO,1,Anchorage,USA,234350.75
+3,ANTON,2,México D.F.,Mexico,26400
+8,BERGS,2,Luleå,Sweden,197321.25
+2,LACOR,1,Versailles,France,12331
+1,FRANK,2,München,Germany,151016.25
+3,FRANR,3,Nantes,France,11937
+4,WHITC,2,Seattle,USA,493276
+8,LEHMS,2,Frankfurt a.M.,Germany,19173
+4,HILAA,2,San Cristóbal,Venezuela,16608
+4,AROUT,2,Colchester,UK,5358
+2,QUICK,1,Cunewalde,Germany,2415000
+5,BERGS,1,Luleå,Sweden,97927.2
+6,LONEP,1,Portland,USA,295.2
+7,QUEEN,2,Sao Paulo,Brazil,184423.2
+5,SEVES,1,London,UK,195600
+5,WOLZA,3,Warszawa,Poland,800
+9,BONAP,2,Marseille,France,162505.2
+5,GODOS,2,Sevilla,Spain,143008.8
+4,WILMK,1,Helsinki,Finland,7746.4
+5,GODOS,2,Sevilla,Spain,3100
+4,BERGS,2,Luleå,Sweden,44499.5
+7,BONAP,3,Marseille,France,37597
+1,RICAR,1,Rio de Janeiro,Brazil,114730
+4,QUICK,1,Cunewalde,Germany,32400
+3,WILMK,3,Helsinki,Finland,19561.6
+7,FOLKO,1,Bräcke,Sweden,206250
+4,CACTU,1,Buenos Aires,Argentina,1500
+4,SAVEA,3,Boise,USA,76106.8
+8,LONEP,3,Portland,USA,288
+4,LETSS,2,San Francisco,USA,105893.8
+6,SUPRD,3,Charleroi,Belgium,105183
+1,HANAR,1,Rio de Janeiro,Brazil,453487.5
+8,GALED,3,Barcelona,Spain,350
+1,GODOS,2,Sevilla,Spain,22990
+9,RATTC,3,Albuquerque,USA,910400
+7,DUMON,1,Nantes,France,33543.9
+7,LEHMS,2,Frankfurt a.M.,Germany,5825.25
+4,MAISD,2,Bruxelles,Belgium,88000
+9,KOENE,2,Brandenburg,Germany,654751.09
+1,SAVEA,1,Boise,USA,573804
+3,ERNSH,1,Graz,Austria,2207272.4
+7,MAISD,3,Bruxelles,Belgium,23265.5
+3,HUNGO,2,Cork,Ireland,1256887.84
+4,OCEAN,2,Buenos Aires,Argentina,150
+5,LILAS,3,Barquisimeto,Venezuela,1152
+1,WELLI,2,Resende,Brazil,135
+4,HILAA,1,San Cristóbal,Venezuela,56070
+1,FOLKO,1,Bräcke,Sweden,36568.8
+3,HANAR,3,Rio de Janeiro,Brazil,75496.05
+3,WHITC,3,Seattle,USA,96212.5
+9,WELLI,2,Resende,Brazil,7200
+4,WOLZA,3,Warszawa,Poland,6412.5
+6,SPECD,3,Paris,France,1519
+4,REGGC,2,Reggio Emilia,Italy,23732
+1,SANTG,2,Stavern,Norway,21440
+1,WILMK,3,Helsinki,Finland,12228.3
+3,GODOS,1,Sevilla,Spain,31746
+2,HUNGO,2,Cork,Ireland,826740
+4,QUEEN,1,Sao Paulo,Brazil,81493.75
+6,QUEEN,1,Sao Paulo,Brazil,13437.5
+2,TORTU,2,México D.F.,Mexico,26975
+1,RANCH,2,Buenos Aires,Argentina,21974.4
+4,ROMEY,2,Madrid,Spain,4024.79
+3,BOTTM,3,Tsawassen,Canada,164050
+2,LINOD,2,I. de Margarita,Venezuela,76350.4
+4,AROUT,2,Colchester,UK,9360
+1,VAFFE,1,Århus,Denmark,96800
+5,HANAR,3,Rio de Janeiro,Brazil,37125
+7,LAMAI,3,Toulouse,France,41184
+3,BERGS,2,Luleå,Sweden,113932
+3,HANAR,1,Rio de Janeiro,Brazil,20683
+4,ANATR,3,México D.F.,Mexico,14917.6
+4,LACOR,1,Versailles,France,24000
+1,GALED,1,Barcelona,Spain,1375
+6,FRANK,1,München,Germany,145669
+4,SUPRD,3,Charleroi,Belgium,284780
+4,RICSU,2,Genève,Switzerland,60264
+8,BONAP,1,Marseille,France,154040
+6,ISLAT,3,Cowes,UK,29459.2
+3,LEHMS,3,Frankfurt a.M.,Germany,10000
+4,WELLI,3,Resende,Brazil,23100
+3,GREAL,2,Eugene,USA,17100
+7,CACTU,3,Buenos Aires,Argentina,18054.4
+3,QUICK,2,Cunewalde,Germany,466240
+2,MAGAA,2,Bergamo,Italy,37500
+8,BONAP,3,Marseille,France,10080
+7,SAVEA,2,Boise,USA,972876
+9,REGGC,3,Reggio Emilia,Italy,15680
+4,BSBEV,2,London,UK,36261
+6,BOTTM,3,Tsawassen,Canada,46703.1
+4,MORGK,1,Leipzig,Germany,7350
+1,VAFFE,2,Århus,Denmark,126675
+3,BSBEV,2,London,UK,880
+3,GODOS,3,Sevilla,Spain,125199.25
+2,BOTTM,3,Tsawassen,Canada,477576
+1,MAGAA,2,Bergamo,Italy,550
+9,RICSU,2,Genève,Switzerland,34285.9
+1,ALFKI,1,Berlin,Germany,8841.6
+9,AROUT,2,Colchester,UK,467500
+5,LINOD,1,I. de Margarita,Venezuela,203524.7
+8,FOLKO,2,Bräcke,Sweden,1116
+6,BLAUS,2,Mannheim,Germany,23018
+8,HILAA,3,San Cristóbal,Venezuela,137490.6
+7,OCEAN,2,Buenos Aires,Argentina,24211
+6,GOURL,2,Campinas,Brazil,3100
+3,HILAA,1,San Cristóbal,Venezuela,9404.4
+8,QUEEN,1,Sao Paulo,Brazil,74052
+8,QUICK,2,Cunewalde,Germany,698880
+9,FURIB,3,Lisboa,Portugal,136
+3,SPECD,2,Paris,France,43102.5
+6,OLDWO,3,Anchorage,USA,13568
+4,CHOPS,1,Bern,Switzerland,40179.2
+2,TOMSP,2,Münster,Germany,47340.8
+1,ERNSH,3,Graz,Austria,90112
+1,COMMI,2,Sao Paulo,Brazil,972
+9,BOLID,1,Madrid,Spain,11200
+2,FRANR,2,Nantes,France,24262.84
+4,LACOR,2,Versailles,France,3269.5
+6,LACOR,2,Versailles,France,6122.55
+3,SPLIR,3,Lander,USA,4390
+1,BOTTM,3,Tsawassen,Canada,18655
+1,HILAA,1,San Cristóbal,Venezuela,18240
+8,FOLKO,3,Bräcke,Sweden,200970
+9,MAISD,2,Bruxelles,Belgium,114053.2
+8,ERNSH,2,Graz,Austria,996394.5
+4,FOLKO,1,Bräcke,Sweden,12400
+1,HANAR,2,Rio de Janeiro,Brazil,948600
+2,BOTTM,1,Tsawassen,Canada,29406
+2,SAVEA,2,Boise,USA,78853.5
+1,SAVEA,3,Boise,USA,208121.25
+2,HUNGO,1,Cork,Ireland,177607.8
+8,OCEAN,2,Buenos Aires,Argentina,155400
+8,EASTC,1,London,UK,238392
+3,RATTC,2,Albuquerque,USA,377200
+2,QUEDE,1,Rio de Janeiro,Brazil,79862.4
+2,ERNSH,3,Graz,Austria,1262336
+1,QUICK,1,Cunewalde,Germany,459200
+1,THEBI,3,Portland,USA,139.2
+7,FOLKO,3,Bräcke,Sweden,554816.25
+2,VAFFE,3,Århus,Denmark,17820
+1,PERIC,3,México D.F.,Mexico,28704
+4,QUICK,2,Cunewalde,Germany,22400
+8,LILAS,2,Barquisimeto,Venezuela,178200
+8,WOLZA,2,Warszawa,Poland,47334
+6,OTTIK,2,Köln,Germany,70616
+2,RATTC,3,Albuquerque,USA,91375
+2,FOLKO,2,Bräcke,Sweden,321204
+4,SAVEA,1,Boise,USA,256770
+3,THECR,3,Butte,USA,7824
+3,MAISD,1,Bruxelles,Belgium,6588
+2,WILMK,1,Helsinki,Finland,7032
+3,GREAL,2,Eugene,USA,3915.8
+8,PRINI,2,Lisboa,Portugal,142230.6
+7,ERNSH,3,Graz,Austria,887533.5
+2,GODOS,1,Sevilla,Spain,27378
+2,REGGC,2,Reggio Emilia,Italy,19350
+3,ALFKI,1,Berlin,Germany,57600
+1,FRANK,3,München,Germany,434204
+2,ROMEY,1,Madrid,Spain,12996
+2,LINOD,3,I. de Margarita,Venezuela,7565.6
+2,SANTG,2,Stavern,Norway,20537.55
+9,AROUT,2,Colchester,UK,15236.5
+9,ERNSH,2,Graz,Austria,1113750
+4,LONEP,2,Portland,USA,55125
+6,RANCH,3,Buenos Aires,Argentina,380
+2,OTTIK,2,Köln,Germany,17856
+3,QUICK,1,Cunewalde,Germany,1166170.32
+9,HANAR,2,Rio de Janeiro,Brazil,91130
+1,BSBEV,2,London,UK,51000
+4,EASTC,1,London,UK,222249.53
+6,WARTH,3,Oulu,Finland,9000
+4,FRANS,1,Torino,Italy,18540
+1,BOTTM,1,Tsawassen,Canada,59685.3
+2,KOENE,1,Brandenburg,Germany,127440
+4,CHOPS,1,Bern,Switzerland,41177.6
+7,SAVEA,2,Boise,USA,5386227
+6,SAVEA,2,Boise,USA,435617
+2,WHITC,3,Seattle,USA,801225
+7,RICSU,3,Genève,Switzerland,380752
+8,OLDWO,1,Anchorage,USA,18295.2
+2,SUPRD,2,Charleroi,Belgium,192995
+8,DRACD,3,Aachen,Germany,62604
+7,GODOS,1,Sevilla,Spain,240
+1,SUPRD,2,Charleroi,Belgium,27787
+1,LINOD,2,I. de Margarita,Venezuela,407880
+4,GREAL,3,Eugene,USA,4000
+3,CHOPS,2,Bern,Switzerland,113220
+2,COMMI,1,Sao Paulo,Brazil,7709.25
+5,SPECD,2,Paris,France,2100
+4,WOLZA,1,Warszawa,Poland,7099.2
+6,BOTTM,2,Tsawassen,Canada,51070.5
+8,WANDK,2,Stuttgart,Germany,82892
+7,EASTC,3,London,UK,59977.5
+7,BOTTM,3,Tsawassen,Canada,22050
+3,GOURL,1,Campinas,Brazil,4788
+8,FOLKO,2,Bräcke,Sweden,45000
+7,LAMAI,3,Toulouse,France,450
+3,HANAR,1,Rio de Janeiro,Brazil,66600
+2,PICCO,2,Salzburg,Austria,292700
+8,CACTU,1,Buenos Aires,Argentina,9150
+7,HILAA,2,San Cristóbal,Venezuela,120925
+8,EASTC,2,London,UK,467500
+3,NORTS,3,London,UK,135
+9,BLAUS,3,Mannheim,Germany,24024
+2,RICAR,2,Rio de Janeiro,Brazil,141526
+2,FRANS,2,Torino,Italy,3724
+4,GREAL,3,Eugene,USA,7650
+4,REGGC,2,Reggio Emilia,Italy,11176
+3,HUNGO,2,Cork,Ireland,144550
+1,SAVEA,1,Boise,USA,816957.9
+8,LILAS,1,Barquisimeto,Venezuela,6061.44
+7,WHITC,2,Seattle,USA,74300
+1,DRACD,2,Aachen,Germany,781.65
+8,QUEEN,2,Sao Paulo,Brazil,171705.6
+1,TORTU,2,México D.F.,Mexico,7200
+2,LEHMS,1,Frankfurt a.M.,Germany,206085
+1,LILAS,1,Barquisimeto,Venezuela,12750
+4,ERNSH,2,Graz,Austria,1043600
+2,PERIC,2,México D.F.,Mexico,9000
+7,SIMOB,2,Kobenhavn,Denmark,3420.2
+8,RICSU,2,Genève,Switzerland,24612
+4,BONAP,2,Marseille,France,52850
+1,RATTC,2,Albuquerque,USA,98971.2
