@@ -44,3 +44,5 @@ Contenido:
 - ventaCoches.xlsx: Ventas de coches en Europa
 - encuesta.csv: Encuesta Vallformosa (simplificada)
 - Encuesta.xlsx: Encuesta Vallformosa
+- natsal-es y natsal-en: Datos natsal (csv)
+- northwind-es y northwind-en: Datos nortwind (csv)
