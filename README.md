@@ -42,4 +42,5 @@ Contenido:
 - Northwind.xlsx: Extract of northwind database
 - Natsal.xlsx: natsal data from The art of statistics
 - ventaCoches.xlsx: Ventas de coches en Europa
+- encuesta.csv: Encuesta Vallformosa (simplificada)
 - Encuesta.xlsx: Encuesta Vallformosa
