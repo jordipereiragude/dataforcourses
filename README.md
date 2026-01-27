@@ -46,3 +46,4 @@ Contenido:
 - Encuesta.xlsx: Encuesta Vallformosa
 - natsal-es y natsal-en: Datos natsal (csv)
 - northwind-es y northwind-en: Datos nortwind (csv)
+- walmart.csv: Datos de ventas walmark (from kaggle)
