@@ -48,3 +48,4 @@ Contenido:
 - northwind-es y northwind-en: Datos nortwind (csv)
 - walmart.csv: Datos de ventas walmark (from kaggle)
 - 2018_subvencions_transferencies.csv: procedente de opendata ayuntamiento de Barcelona
+- datosFutbol2026.csv: Datos fútbol temporadas 2022-2023 a 2025-2026 de la liga española
