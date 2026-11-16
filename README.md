@@ -50,3 +50,4 @@ Contenido:
 - 2018_subvencions_transferencies.csv: procedente de opendata ayuntamiento de Barcelona
 - datosFutbol2026.csv: Datos fútbol temporadas 2022-2023 a 2025-2026 de la liga española
 - wine.xlsx: Wine dataset modified (unlog)
+- marketing.csv: datos marketing https://pub.ww.ovgu.de/lichters/mma/lecture/OVGU_MMA_Lecture_Examples.html
